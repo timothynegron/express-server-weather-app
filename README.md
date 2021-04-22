@@ -11,7 +11,7 @@
 ##### On Start
 ![alt start](images/start.png)
 
-### After search
+##### After search
 ![alt searched](images/searched.png)
 
 ---
@@ -19,7 +19,6 @@
 ### Topics Covered
 
 1. Making GET Request with Node HTTPS Module
-2. Using Express to Render a Website with Live API Data
 
 ---
 
